@@ -1,0 +1,15 @@
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар007\HW058\bin\Debug\net6.0\HW058.exe
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар007\HW058\bin\Debug\net6.0\HW058.deps.json
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар007\HW058\bin\Debug\net6.0\HW058.runtimeconfig.json
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар007\HW058\bin\Debug\net6.0\HW058.dll
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар007\HW058\bin\Debug\net6.0\HW058.pdb
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар007\HW058\obj\Debug\net6.0\HW058.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар007\HW058\obj\Debug\net6.0\HW058.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар007\HW058\obj\Debug\net6.0\HW058.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар007\HW058\obj\Debug\net6.0\HW058.AssemblyInfo.cs
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар007\HW058\obj\Debug\net6.0\HW058.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар007\HW058\obj\Debug\net6.0\HW058.dll
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар007\HW058\obj\Debug\net6.0\refint\HW058.dll
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар007\HW058\obj\Debug\net6.0\HW058.pdb
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар007\HW058\obj\Debug\net6.0\HW058.genruntimeconfig.cache
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар007\HW058\obj\Debug\net6.0\ref\HW058.dll
